@@ -1,0 +1,68 @@
+2022-04-29T09:54:24.901Z - normal: Load ~/.CocosCreator/settings.json
+2022-04-29T09:54:24.951Z - normal: Initializing Asset Database
+2022-04-29T09:54:24.954Z - normal: checking language setting...
+2022-04-29T09:54:24.954Z - normal: Language: en
+2022-04-29T09:54:25.642Z - success: preview server running at http://localhost:7456
+2022-04-29T09:54:25.656Z - success: protocol editor-framework registered
+2022-04-29T09:54:25.656Z - success: protocol app registered
+2022-04-29T09:54:25.656Z - success: protocol theme registered
+2022-04-29T09:54:25.656Z - success: protocol packages registered
+2022-04-29T09:54:25.656Z - success: protocol uuid registerred
+2022-04-29T09:54:25.656Z - success: protocol db registerred
+2022-04-29T09:54:25.656Z - success: protocol thumbnail registerred
+2022-04-29T09:54:25.656Z - success: protocol unpack registerred
+2022-04-29T09:54:25.656Z - success: protocol disable-commonjs registerred
+2022-04-29T09:54:27.893Z - normal: connected!
+2022-04-29T09:54:27.894Z - normal: Check project /Users/fe-minhthao/Documents/cocos/luckyWheel
+2022-04-29T09:54:27.896Z - normal: Initializing project /Users/fe-minhthao/Documents/cocos/luckyWheel
+2022-04-29T09:54:28.203Z - normal: Initializing Cocos2d
+2022-04-29T09:54:28.888Z - normal: Initializing engine extends
+2022-04-29T09:54:28.914Z - success: alipay-adapter loaded
+2022-04-29T09:54:28.919Z - success: asset-db-debugger loaded
+2022-04-29T09:54:28.920Z - success: baidu-adapter loaded
+2022-04-29T09:54:28.921Z - success: color-picker loaded
+2022-04-29T09:54:29.035Z - success: fb-audience-network loaded
+2022-04-29T09:54:29.077Z - success: fb-live-stream loaded
+2022-04-29T09:54:29.081Z - success: google-play-instant loaded
+2022-04-29T09:54:29.086Z - success: huawei-runtime loaded
+2022-04-29T09:54:29.310Z - success: cpk-publish loaded
+2022-04-29T09:54:29.311Z - success: jsb-adapter loaded
+2022-04-29T09:54:29.319Z - success: oppo-runtime loaded
+2022-04-29T09:54:29.324Z - success: package-manager loaded
+2022-04-29T09:54:29.453Z - success: qqplay-adapter loaded
+2022-04-29T09:54:29.455Z - success: runtime-dev-tools loaded
+2022-04-29T09:54:29.466Z - success: sdkbox loaded
+2022-04-29T09:54:29.472Z - success: tester loaded
+2022-04-29T09:54:29.476Z - success: ui-kit-preview-extra loaded
+2022-04-29T09:54:29.480Z - success: ui-kit-preview loaded
+2022-04-29T09:54:29.484Z - success: ui-kit loaded
+2022-04-29T09:54:29.490Z - success: vivo-runtime loaded
+2022-04-29T09:54:29.491Z - success: weapp-adapter loaded
+2022-04-29T09:54:29.492Z - success: xiaomi-adapter loaded
+2022-04-29T09:54:29.495Z - success: alipay-minigame loaded
+2022-04-29T09:54:29.538Z - success: assets loaded
+2022-04-29T09:54:29.541Z - success: builder loaded
+2022-04-29T09:54:29.743Z - success: cocos-services loaded
+2022-04-29T09:54:29.747Z - success: console loaded
+2022-04-29T09:54:29.774Z - success: fb-instant-games loaded
+2022-04-29T09:54:29.777Z - success: game-window loaded
+2022-04-29T09:54:29.780Z - success: google-instant-games loaded
+2022-04-29T09:54:29.785Z - success: hierarchy loaded
+2022-04-29T09:54:29.788Z - success: inspector loaded
+2022-04-29T09:54:29.789Z - success: keystore loaded
+2022-04-29T09:54:29.793Z - success: node-library loaded
+2022-04-29T09:54:29.795Z - success: package-asset loaded
+2022-04-29T09:54:29.797Z - success: preferences loaded
+2022-04-29T09:54:29.799Z - success: project-exporter loaded
+2022-04-29T09:54:29.803Z - success: project-importer loaded
+2022-04-29T09:54:29.806Z - success: project-settings loaded
+2022-04-29T09:54:29.810Z - success: scene loaded
+2022-04-29T09:54:29.811Z - success: simulator-debugger loaded
+2022-04-29T09:54:29.812Z - success: sprite-editor loaded
+2022-04-29T09:54:29.815Z - success: store loaded
+2022-04-29T09:54:29.821Z - success: timeline loaded
+2022-04-29T09:54:29.825Z - success: xiaomi-runtime loaded
+2022-04-29T09:54:30.607Z - normal: Loading packages
+2022-04-29T09:54:30.612Z - normal: Watching packages
+2022-04-29T09:54:30.691Z - normal: Run Application
+2022-04-29T09:54:35.441Z - info: Cocos Services load base data!
